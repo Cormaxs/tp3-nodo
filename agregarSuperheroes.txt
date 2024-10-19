@@ -1,0 +1,93 @@
+[
+    {
+    "id": 7,
+    "nombreSuperheroe": "Hulk",
+    "nombreReal": "Bruce Banner",
+    "nombreSociedad": "Avengers",
+    "edad": 40,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Descontrol emocional",
+    "poder": "Fuerza y resistencia ilimitadas",
+    "habilidadEspecial": "Regeneración acelerada",
+    "aliado": "Black Widow",
+    "enemigo": "Abomination"
+  },
+  {
+    "id": 8,
+    "nombreSuperheroe": "Flash",
+    "nombreReal": "Barry Allen",
+    "nombreSociedad": "Justice League",
+    "edad": 28,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Fuerzas antimateria",
+    "poder": "Supervelocidad, viaje en el tiempo",
+    "habilidadEspecial": "Reflejos sobrehumanos",
+    "aliado": "Green Lantern",
+    "enemigo": "Reverse Flash"
+  },
+  {
+    "id": 9,
+    "nombreSuperheroe": "Aquaman",
+    "nombreReal": "Arthur Curry",
+    "nombreSociedad": "Justice League",
+    "edad": 35,
+    "planetaOrigen": "Atlantis",
+    "debilidad": "Deshidratación",
+    "poder": "Control sobre la vida marina, superfuerza",
+    "habilidadEspecial": "Comunicarse con criaturas del océano",
+    "aliado": "Mera",
+    "enemigo": "Black Manta"
+  },
+  {
+    "id": 10,
+    "nombreSuperheroe": "Green Lantern",
+    "nombreReal": "Hal Jordan",
+    "nombreSociedad": "Justice League",
+    "edad": 32,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Objetos amarillos (en versiones antiguas)",
+    "poder": "Crear construcciones sólidas con su anillo",
+    "habilidadEspecial": "Voluntad inquebrantable",
+    "aliado": "Flash",
+    "enemigo": "Sinestro"
+  },
+  {
+    "id": 11,
+    "nombreSuperheroe": "Captain America",
+    "nombreReal": "Steve Rogers",
+    "nombreSociedad": "Avengers",
+    "edad": 100 ,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Ningún poder sobrehumano",
+    "poder": "Fuerza y resistencia aumentadas",
+    "habilidadEspecial": "Estrategia militar, manejo del escudo",
+    "aliado": "Bucky Barnes",
+    "enemigo": "Red Skull"
+  },
+  {
+    "id": 12,
+    "nombreSuperheroe": "Doctor Strange",
+    "nombreReal": "Stephen Strange",
+    "nombreSociedad": "Avengers",
+    "edad": 45,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Dependencia del Ojo de Agamotto",
+    "poder": "Manipulación de la magia, viajes interdimensionales",
+    "habilidadEspecial": "Conocimiento místico",
+    "aliado": "Wong",
+    "enemigo": "Dormammu"
+  },
+  {
+    "id": 13,
+    "nombreSuperheroe": "Black Panther",
+    "nombreReal": "T'Challa",
+    "nombreSociedad": "Avengers",
+    "edad": 35,
+    "planetaOrigen": "Wakanda",
+    "debilidad": "Culpa por las decisiones de liderazgo",
+    "poder": "Fuerza, velocidad y agilidad aumentadas",
+    "habilidadEspecial": "Maestro en combate y tecnología",
+    "aliado": "Shuri",
+    "enemigo": "Killmonger"
+  }
+]
