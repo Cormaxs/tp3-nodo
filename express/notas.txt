@@ -1,0 +1,23 @@
+si de casualidad me sale que no puede ejecutarse por : 
+Error: Cannot find module 'B:\Diplomatura fullStack web\modulo 3\1\probandoExpress\index.js'
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Module._load (node:internal/modules/cjs/loader:985:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+solo debo ir a package.json y agregar :
+ "type": "module", 
+
+ o podria usar required en ves de import cada ves que precise un modulo
+
+
+ para crear un proyecto desde 0
+npm init -y -> inicia automatico 
+
+despues instalo lo necesario por ejemplo:
+npm install express
+
+y empiezo a desarrrolar mi proyecto
